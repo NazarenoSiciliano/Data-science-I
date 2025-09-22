@@ -1,0 +1,47 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "mount_file_id": "1l2mfVH0ejfrXrp2cY38SbZkEc8DIVjDe",
+      "authorship_tag": "ABX9TyPVz+a8lPRxxPwBANCha5+F",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/NazarenoSiciliano/Data-science-I/blob/main/ProyectoDS_ParteI_Siciliano\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "iK2tVObhRF8Z"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "0vwk5nHIRGQp"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
